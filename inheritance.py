@@ -19,7 +19,15 @@ class Employee:
           print(f"The Employee Details : {self.id} {self.name}")
 
 
+class Programmer(Employee):
+     def empLanguage(self):
+          print("The Programmer language is Python")
+
+
 emp = Employee("Vaibhav Pawar" , 45)
 emp.empDetails()
-emp1 = Employee("Rohit Sharma" , 99)
-emp1.empDetails()
+
+
+program = Programmer("Rohit Sharma" , 99)
+program.empDetails()
+program.empLanguage()
