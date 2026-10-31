@@ -4,7 +4,6 @@ Problem:  You are given two values , handle the exception
 Platform : HackerRank
 
 Difficulty: Mid
-
 """
 
 
