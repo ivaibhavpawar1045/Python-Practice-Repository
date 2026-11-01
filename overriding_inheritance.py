@@ -3,8 +3,6 @@
 Problem:  Implement the inheritance function where the overriding happens
           So neglate the constructor overriding using the super() keyword.
 
-Sample Input : User define  
-
 Platform: Self study
 
 Difficulty: Easy 

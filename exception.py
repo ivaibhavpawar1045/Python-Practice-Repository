@@ -6,7 +6,6 @@ Platform : HackerRank
 Difficulty: Mid
 """
 
-
 t = int(input())
 
 for _ in range(t):
