@@ -6,8 +6,6 @@ Problem:  Complete the swap_case function in the editor below.
 
           string s: the string to modify
 
-Sample Input : HackerRank.com presents "Pythonist 2".
-
 Platform: HackerRank
 
 Difficulty: Easy 
