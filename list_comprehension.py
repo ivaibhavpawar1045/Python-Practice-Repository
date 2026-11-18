@@ -1,5 +1,4 @@
 
-
 """
 Problem:  Obtain the marks greater than or equal to 90 using list comprehension
 
@@ -8,7 +7,6 @@ Platform : SelfStudy
 Difficulty: Mid
 
 """
-
 
 marks = [45 , 90 , 63 , 99 , 69]
 
