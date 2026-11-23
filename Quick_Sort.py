@@ -9,11 +9,10 @@ Difficulty: hard
 
 
 def quick_sort(arr):
-    # Base case: 0 or 1 element is already sorted
     if len(arr) <= 1:
         return arr
 
-    pivot = arr[len(arr) // 2]  # Pick the middle element as pivot
+    pivot = arr[len(arr) // 2]  
     left = [x for x in arr if x < pivot]
     middle = [x for x in arr if x == pivot]
     right = [x for x in arr if x > pivot]
