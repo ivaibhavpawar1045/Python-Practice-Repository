@@ -4,8 +4,6 @@
 Problem:  You need to print each number from 1 to n in decimal, octal, hexadecimal (uppercase), and binary, 
           all aligned to the width of the binary representation of n.
 
-Sample Input : 2
-
 Platform: HackerRank
 
 Difficulty: hard 
